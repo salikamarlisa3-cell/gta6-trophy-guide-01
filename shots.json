@@ -1,5 +1,1 @@
-[
-  { "file": "1-checklist.jpg", "path": "/", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "2-silver.jpg", "path": "/", "grade": "silver", "viewport": { "width": 1280, "height": 800 } },
-  { "file": "3-bronze.jpg", "path": "/", "grade": "bronze", "scroll": 1400, "viewport": { "width": 1280, "height": 800 } }
-]
+[{"file":"1-cover.jpg","note":"Default checklist: header, live audit strip, progress summary, filters and the first trophy cards in roadmap order.","path":"/","viewport":{"height":800,"width":1280}},{"file":"2-guide.jpg","note":"The guide for Positive Mental Attitude (trophy 28) opened in place: full guide text, the missable warning with its reasoning, and its cited sources.","path":"/?open=28","viewport":{"height":800,"width":1280}},{"file":"3-roadmap.jpg","note":"The platinum roadmap: stage 1 and stage 2 blocks with rationales, per-stage earned counts and the MISSABLE flag inline.","path":"/?view=roadmap","viewport":{"height":800,"width":1280}},{"file":"4-spoiler.jpg","note":"Spoiler protection on with the grade filter set to Silver: the status line reports the 12 masked unearned story trophies while the six silver trophies stay visible.","path":"/?spoiler=1&grade=silver","viewport":{"height":800,"width":1280}}]

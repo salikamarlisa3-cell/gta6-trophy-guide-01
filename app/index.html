@@ -3,23 +3,90 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>GTA VI trophy checklist</title>
+<title>Leonida Legend — GTA VI Trophy Guide &amp; Platinum Tracker</title>
+<meta name="description" content="The complete Grand Theft Auto VI PlayStation 5 trophy guide and tracker: all 55 official trophies with cited guides, a four-stage platinum roadmap, missable warnings and spoiler protection.">
 <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<header>
-  <h1>GTA VI trophy checklist</h1>
-  <p id="progress">0 of 55 earned</p>
+<header class="site-header">
+  <div class="header-inner">
+    <div class="brand">
+      <p class="brand-kicker">Grand Theft Auto VI · PlayStation 5</p>
+      <h1>Leonida Legend</h1>
+      <p class="brand-sub">Trophy guide &amp; platinum tracker — every official trophy, a cited guide for each one, and a four-stage roadmap to the platinum.</p>
+    </div>
+    <div class="progress-panel" aria-label="Your progress">
+      <p class="progress-big"><span id="earned-count">0</span><span class="progress-of"> / 55 earned</span></p>
+      <div class="progress-bar" role="progressbar" aria-label="Trophies earned" aria-valuemin="0" aria-valuemax="55" aria-valuenow="0" id="progress-bar"><span id="progress-fill"></span></div>
+      <p class="progress-points"><span id="points-earned">0</span> / 1,350 PSN points · <span id="percent-earned">0%</span></p>
+      <p class="progress-grades" id="grade-progress"></p>
+      <p class="progress-platinum" id="platinum-progress"></p>
+    </div>
+  </div>
+  <p class="audit-strip" id="audit-strip">Checking the trophy data against the official list…</p>
 </header>
-<div class="controls">
-  <label>Grade <select id="grade"><option value="all">All</option><option value="platinum">Platinum</option><option value="gold">Gold</option><option value="silver">Silver</option><option value="bronze">Bronze</option></select></label>
-  <button id="export" type="button">Export progress</button>
-  <label class="import">Import progress <input id="import" type="file" accept="application/json"></label>
-</div>
-<table>
-  <thead><tr><th>Earned</th><th>Trophy</th><th>Grade</th><th>How to get it</th></tr></thead>
-  <tbody id="rows"></tbody>
-</table>
+
+<nav class="controls" aria-label="Tracker controls">
+  <div class="control-row">
+    <input id="search" type="search" placeholder="Search trophies, descriptions, guides…" aria-label="Search trophies">
+    <label class="select-label">Grade
+      <select id="grade-filter">
+        <option value="all">All grades</option>
+        <option value="platinum">Platinum</option>
+        <option value="gold">Gold</option>
+        <option value="silver">Silver</option>
+        <option value="bronze">Bronze</option>
+      </select>
+    </label>
+    <label class="select-label">Show
+      <select id="state-filter">
+        <option value="all">All trophies</option>
+        <option value="earned">Earned</option>
+        <option value="unearned">Unearned</option>
+      </select>
+    </label>
+    <label class="select-label">Sort
+      <select id="sort-mode">
+        <option value="roadmap">Roadmap stage</option>
+        <option value="grade">Grade value</option>
+        <option value="official">Official list order</option>
+      </select>
+    </label>
+  </div>
+  <div class="control-row">
+    <div class="chip-group" id="kind-chips" role="group" aria-label="Filter by trophy family"></div>
+    <label class="spoiler-toggle"><input type="checkbox" id="spoiler-toggle"> Spoiler protection — hide unearned story trophies</label>
+  </div>
+  <div class="control-row actions">
+    <button id="export-button" type="button">Export progress</button>
+    <label class="import-button">Import progress <input id="import-input" type="file" accept="application/json"></label>
+    <button id="reset-button" type="button">Reset</button>
+    <a class="roadmap-link" href="#roadmap">Jump to the platinum roadmap ↓</a>
+    <span class="visible-count" id="visible-count"></span>
+  </div>
+</nav>
+
+<main>
+  <p id="spoiler-status" class="spoiler-status" hidden></p>
+  <section id="trophy-list" class="trophy-list" aria-label="Trophy checklist"></section>
+  <p id="empty-state" class="empty-state" hidden>No trophies match the current filters. Loosen the search or pick another family.</p>
+
+  <section id="roadmap" class="roadmap" aria-label="Platinum roadmap">
+    <h2>Platinum roadmap — four stages</h2>
+    <p class="roadmap-intro">One playthrough is enough: the story runs five chapters, free-roam continues after the credits, and there is no mission replay — so the roadmap front-loads the one step that cannot be revisited (the Chapter 1 meditation, flagged below) and leaves everything else for calm cleanup. Difficulty estimate and timings follow PowerPyx's roadmap (about 200 hours to platinum).</p>
+    <div id="roadmap-stages"></div>
+  </section>
+
+  <section class="sources-note" aria-label="Sources and method">
+    <h2>Sources &amp; method</h2>
+    <p>Names, descriptions and grades are the official PlayStation 5 trophy list (PlayStation, 2026-11-18), cross-checked against the mirrors at Exophase and PSNProfiles; the audit strip at the top of this page re-verifies the counts from the data itself every time it loads. Every guide is written for this tracker in our own words and cites its sources on the card. Where the official description is all that is publicly documented, the guide says so plainly instead of inventing steps or locations. Roadmap facts (one potentially missable trophy, no mission replay, free-roam after the story, the lenient 100% checklist) follow PowerPyx's GTA 6 Trophy Guide &amp; Roadmap, read 2026-11-19. This is an unofficial fan guide; it is not affiliated with Rockstar Games or PlayStation.</p>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <p>Progress is stored only in this browser (localStorage). Export it before switching devices. · Leonida Legend — a fan-made GTA VI trophy tracker.</p>
+</footer>
+
 <script type="module" src="app.js"></script>
 </body>
 </html>

@@ -8,385 +8,830 @@
    "name": "Vice Got a Price!",
    "description": "Congratulations! You're a Leonida Legend.",
    "grade": "platinum",
-   "guide": "Earn the other 54 trophies."
+   "kind": "story",
+   "missable": false,
+   "stage": 4,
+   "points": 300,
+   "guide": "This is the platinum: it unlocks on its own the moment the other 54 trophies are all earned, with no extra task of its own. Plan around the long poles first — the 100% completion gold and the collectible silvers — and let this be the last thing that pops. PowerPyx rates the full list at roughly 200 hours in a single playthrough, since free-roam continues after the story and there is no mission replay to lean on.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 2,
    "name": "Just Like Paradise",
    "description": "Complete Gone Fishing.",
    "grade": "bronze",
-   "guide": "Finish the opening mission, Gone Fishing."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Play the opening story mission, Gone Fishing, and finish it — the trophy pops automatically at the end of the mission. It is the first story beat of Chapter 1, so simply starting the campaign and playing normally earns it. PowerPyx lists every story trophy as automatic and unmissable, and the story trophies are hidden on the official list until earned.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)",
+    "SixShore — GTA 6 Trophy and Achievement List (sixshore.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 3,
    "name": "Paradise Lost",
    "description": "Complete Chapter 1.",
    "grade": "bronze",
-   "guide": "Finish Chapter 1."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete Chapter 1 of the story. Chapter trophies unlock automatically as the campaign advances, and PowerPyx confirms they cannot be missed, so no special preparation is needed — just keep following the main missions until the chapter closes. Before leaving Chapter 1, do the meditation at Jason's house when Lucia suggests it: it feeds the one potentially missable trophy on the list.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 4,
    "name": "T**s Ass Drug Money",
    "description": "Complete Chapter 2.",
    "grade": "bronze",
-   "guide": "Finish Chapter 2."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete Chapter 2 of the story. Like every chapter trophy it is automatic and, per PowerPyx, cannot be missed — story progress alone earns it. Keep a manual save at the chapter boundary if you like; PowerPyx recommends rotating chapter saves because there is no mission replay, even though no story trophy depends on it.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 5,
    "name": "Vice City, Baby!",
    "description": "Complete Chapter 3.",
    "grade": "bronze",
-   "guide": "Finish Chapter 3."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete Chapter 3 of the story. The trophy is awarded automatically when the chapter ends and PowerPyx confirms it is unmissable. Chapter 3 also carries the story mission The Cartel Heist, so this chapter banks two story trophies on a normal playthrough.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 6,
    "name": "Top Of The World, Ma",
    "description": "Complete Chapter 4.",
    "grade": "bronze",
-   "guide": "Finish Chapter 4."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete Chapter 4 of the story. It pops automatically at the chapter's end and cannot be missed. Chapter 4 is dense with named story missions — Child's Play, Headliners and VCIA Takedown all sit here per PowerPyx — so expect several story bronzes to land in this stretch.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 7,
    "name": "You Gotta Know When to Get Off",
    "description": "Complete the final mission.",
    "grade": "gold",
-   "guide": "Finish the final mission (gold)."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 90,
+   "guide": "Finish the final story mission. This gold is automatic once the campaign's last mission is complete, and PowerPyx confirms it cannot be missed. Afterwards you return to free-roam with everything else still accessible, which is when the completion checklist opens and the cleanup stages of the roadmap begin.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 8,
    "name": "Trust",
    "description": "Complete Breakfast Run.",
    "grade": "bronze",
-   "guide": "Finish the mission Breakfast Run."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete the story mission Breakfast Run. PowerPyx places Breakfast Run in Chapter 2 and lists the trophy as automatic and unmissable — it pops as part of normal story progression, so just play the mission when it appears on the story path.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 9,
    "name": "Break the Bank",
    "description": "Complete The Cartel Heist.",
    "grade": "bronze",
-   "guide": "Finish the mission The Cartel Heist."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete the story mission The Cartel Heist. PowerPyx places this mission in Chapter 3 and confirms the trophy is automatic and unmissable, so a normal story playthrough earns it without any special setup or optional objectives.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 10,
    "name": "Family Matters",
    "description": "Complete Child's Play.",
    "grade": "bronze",
-   "guide": "Finish the mission Child's Play."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete the story mission Child's Play. PowerPyx places Child's Play in Chapter 4 and lists the trophy as automatic and unmissable — it unlocks as the story carries you through the mission, with nothing extra to collect or protect on the way.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 11,
    "name": "DWNFALL",
    "description": "Complete Headliners.",
    "grade": "bronze",
-   "guide": "Finish the mission Headliners."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete the story mission Headliners. PowerPyx places Headliners in Chapter 4 and confirms the trophy is automatic and unmissable — finish the mission as part of the campaign and the bronze is yours.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 12,
    "name": "Hi-Jacked",
    "description": "Complete VCIA Takedown.",
    "grade": "bronze",
-   "guide": "Finish the mission VCIA Takedown."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete the story mission VCIA Takedown. PowerPyx places VCIA Takedown in Chapter 4 and lists the trophy as automatic and unmissable. The airport it is named after also hosts the free-roam trophy Catch Me If You Can, so remember the location for later.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 13,
    "name": "Snow Storm",
    "description": "Complete Operation Savage Glory.",
    "grade": "bronze",
-   "guide": "Finish the mission Operation Savage Glory."
+   "kind": "story",
+   "missable": false,
+   "hidden": true,
+   "stage": 1,
+   "points": 15,
+   "guide": "Complete the story mission Operation Savage Glory. PowerPyx places this mission in Chapter 5, the final chapter, and confirms the trophy is automatic and unmissable — it is one of the last story bronzes before the final-mission gold.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 14,
    "name": "A Long Road",
    "description": "Attain 100% Completion.",
    "grade": "gold",
-   "guide": "Reach 100% completion (gold)."
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "points": 90,
+   "guide": "Attain 100% completion on the in-game checklist, which only becomes viewable after the story under Progress > Stats > 100% Completion — although progress you make during the story already counts. PowerPyx stresses the checklist is lenient, closer to 60% true completion: most side quests and many collectible types are not required, and you need only 70 of the 80 challenges. Nothing toward it is missable, so treat it as the long post-story project that the whole roadmap feeds into.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 15,
    "name": "Cunning Stunts",
    "description": "Complete 250 Stunts.",
    "grade": "silver",
-   "guide": "Pull off 250 stunts (silver)."
+   "kind": "activities",
+   "missable": false,
+   "count": 250,
+   "stage": 3,
+   "points": 30,
+   "guide": "Complete any 250 stunts. PowerPyx counts 397 stunts in the world across four families — stunt jumps, flying under bridges, knife flights and base jumps — and you may mix freely between them; the under-bridge flights are the quickest to bank. Track progress per region in Progress > Activities > Stunts, and note the 100% checklist separately wants 300 stunts, so pushing past 250 pays off twice.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 16,
    "name": "Master of None",
    "description": "Try each type of activity once.",
    "grade": "bronze",
-   "guide": "Try all 9 activity types once."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Try each type of activity once — the in-game tracker counts 9 activity types, visible under Touchpad > Progress > Activities, where each type shows how many times you have done it. PowerPyx notes the story introduces most types automatically and the rest appear as you unfog the map (the blue activity icons), so this usually completes on its own while you work on everything else.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 17,
    "name": "The Shootist",
    "description": "Earn a gold medal in all Shooting Range challenges.",
    "grade": "silver",
-   "guide": "Gold all 42 Shooting Range challenges (silver)."
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "points": 30,
+   "guide": "Earn a gold medal in every Shooting Range challenge — not just a pass, the gold standard at every range. PowerPyx's roadmap adds that shooting ranges are one of the few categories the 100% checklist requires in full, so this silver doubles as required completion progress. Work the ranges one at a time and replay a challenge until its gold is banked before moving on.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 18,
    "name": "Top Fun",
    "description": "Win a Top Fun Drone Race at every location.",
    "grade": "bronze",
-   "guide": "Win a Top Fun drone race at all 14 locations."
+   "kind": "activities",
+   "missable": false,
+   "stage": 3,
+   "points": 15,
+   "guide": "Win a Top Fun drone race at every location — winning, not just entering, is required at each site, so learn a course's line over a couple of attempts before chasing the win. Drone races are also one of the categories the 100% checklist requires in full (per PowerPyx), so clearing every location serves two goals at once.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 19,
    "name": "Earn Cash, Not Kudos",
    "description": "Win 20 different races.",
    "grade": "bronze",
-   "guide": "Win 20 different races."
+   "kind": "activities",
+   "missable": false,
+   "count": 20,
+   "stage": 2,
+   "points": 15,
+   "guide": "Win 20 different races. The word 'different' is the catch: repeating one easy race twenty times does not finish this — vary the events until twenty distinct wins are banked. Races surface as you explore and progress, so work them in alongside the story and side content rather than grinding them all at the end.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 20,
    "name": "Baited My Tackle",
    "description": "Beat Cal in a fishing challenge.",
    "grade": "bronze",
-   "guide": "Beat Cal in a fishing challenge."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Beat Cal in a fishing challenge. Fishing is one of the activity types tracked for Master of None, and Cal is the named rival for this one — find his fishing challenge, enter it, and finish ahead of him. Nothing in the description makes the challenge one-shot, so a lost attempt can simply be retried.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 21,
    "name": "Stick Fiddler",
    "description": "Complete an arcade game.",
    "grade": "bronze",
-   "guide": "Finish one arcade game."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Complete one arcade game — a single finished cabinet run is all the description asks for. This is one of the quickest bronzes on the list: pick any arcade game you come across while exploring and play it through to completion once.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 22,
    "name": "Road to Rehabilitation",
    "description": "Complete the final mission for Andy.",
    "grade": "bronze",
-   "guide": "Finish Andy's last mission."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Complete the final mission of Andy's questline — work through each of Andy's missions as they appear until the strand concludes with its final mission. PowerPyx notes that trophy quest givers can become temporarily unavailable during the story but always return, and all of them are still available in post-story free-roam, so this cannot be permanently missed.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 23,
    "name": "This Was No Boat Accident",
    "description": "Complete the final mission for Kenton.",
    "grade": "bronze",
-   "guide": "Finish Kenton's last mission."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Complete the final mission of Kenton's questline. PowerPyx names Kenton specifically as a quest giver who becomes temporarily unavailable during part of the story — do not panic if he vanishes; he returns, and like every trophy quest giver he is available again in post-story free-roam. Finish his missions through to the final one to earn the trophy.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 24,
    "name": "The Lone Rider",
    "description": "Complete the final mission for Billy.",
    "grade": "bronze",
-   "guide": "Finish Billy's last mission."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Complete the final mission of Billy's questline — follow Billy's missions as they appear until the strand's final mission is done. If Billy is unavailable for a stretch of the story, that is temporary: PowerPyx confirms all trophy-related quest givers return and remain available after the story, so the strand can always be finished later.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 25,
    "name": "Strangers & Freaks",
    "description": "Complete 8 mission strands for strangers across the state of Leonida.",
    "grade": "silver",
-   "guide": "Finish 8 stranger strands (silver)."
+   "kind": "activities",
+   "missable": false,
+   "count": 8,
+   "stage": 2,
+   "points": 30,
+   "guide": "Complete 8 full mission strands for strangers across Leonida — a strand counts when one stranger's questline is seen through to its end, not when you merely meet eight people. PowerPyx notes these strands are not required for the 100% checklist, which makes them easy to leave behind; they stay available after the story. Prioritise finishing strands you start so the completed count climbs steadily.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 26,
    "name": "Supply & Demand",
    "description": "Complete the final mission for Randy.",
    "grade": "bronze",
-   "guide": "Finish Randy's last mission."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Complete the final mission of Randy's questline. Work Randy's missions as they surface until the final one is complete. As with the other character questlines, PowerPyx confirms the quest giver remains available in post-story free-roam, so a strand left unfinished during the campaign can always be closed out in cleanup.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 27,
    "name": "Spin On This!",
    "description": "Complete the final mission for Tyrone.",
    "grade": "bronze",
-   "guide": "Finish Tyrone's last mission."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Complete the final mission of Tyrone's questline — take each of Tyrone's missions as it appears and see the strand through to its final mission. Temporary unavailability during the story is normal for quest givers (per PowerPyx) and never permanent, so this bronze stays earnable in free-roam after the credits.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 28,
    "name": "Positive Mental Attitude",
    "description": "Meditate at every spot across Leonida.",
    "grade": "bronze",
-   "guide": "Meditate at all 18 spots."
+   "kind": "collectibles",
+   "missable": true,
+   "missableNote": "PowerPyx flags this as the list's one potentially missable trophy: after the Chapter 1 mission Down to Earth, Lucia suggests meditating at Jason's house and that early meditation may count toward the total. Chapter 1 cannot be revisited (there is no mission replay), so accept her offer when it comes; whether that spot is strictly required is still unconfirmed, which is why this is flagged 'potentially' missable rather than certain.",
+   "count": 18,
+   "stage": 1,
+   "points": 15,
+   "guide": "Meditate at every meditation spot across Leonida — 18 spots in total. Do the Chapter 1 one first: PowerPyx reports that after the Chapter 1 mission Down to Earth, Lucia suggests meditating at Jason's house; accept, because that early spot may be required and the opportunity does not come back. The remaining spots are found across the map in free-roam, and meditating also feeds the 100% checklist, with each spot counting extra when done with both protagonists.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)",
+    "SixShore — GTA 6 Trophy and Achievement List (sixshore.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 29,
    "name": "Fair Game",
    "description": "Hunt a unique animal for Bret.",
    "grade": "bronze",
-   "guide": "Hunt the unique animal for Bret."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Hunt the unique animal Bret asks for. Bret's quests are among the few questlines the 100% checklist requires in full (per PowerPyx), so take his hunting request when it appears and follow the quest through to the unique animal rather than hunting at random. The description names a single specific animal, so Bret's quest itself — not open-world hunting — is the path.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 30,
    "name": "Don't Touch My Deck",
    "description": "Complete 3 Collectible Card sets.",
    "grade": "silver",
-   "guide": "Complete 3 collectible card sets (silver)."
+   "kind": "collectibles",
+   "missable": false,
+   "count": 3,
+   "stage": 3,
+   "points": 30,
+   "guide": "Complete 3 full Collectible Card sets. A set only counts when every card in it is found, so track which sets are closest to finished and hunt their missing cards first instead of spreading effort evenly across all sets. The official description gives no locations, so treat any card you spot while exploring as progress and check your set completion regularly as the collection grows.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 31,
    "name": "You WAiNKer!",
    "description": "WAiNK It at 100 locations.",
    "grade": "silver",
-   "guide": "WAiNK It at 100 locations (silver)."
+   "kind": "collectibles",
+   "missable": false,
+   "count": 100,
+   "stage": 3,
+   "points": 30,
+   "guide": "Use the WAiNK app at 100 locations. PowerPyx describes the same app being used to scan vehicles for the completion checklist (any 200 of 277 base models are needed there), so make scanning a habit whenever you pass somewhere new — progress made during the story counts later. This is a cumulative grind best spread across the whole playthrough rather than saved for the end.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 32,
    "name": "One Last Thing",
    "description": "Complete 50 Challenges.",
    "grade": "bronze",
-   "guide": "Finish 50 challenges."
+   "kind": "activities",
+   "missable": false,
+   "count": 50,
+   "stage": 2,
+   "points": 15,
+   "guide": "Complete 50 challenges. PowerPyx's roadmap puts the challenge pool at 80 and notes the 100% checklist needs 70 of them, so every challenge finished here is also completion progress — aim past 50 rather than stopping at it. Pick off the quick challenges as they surface during other work instead of hunting them in isolation.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 33,
    "name": "Hot Together",
    "description": "Lose a 4 star Wanted Level with your partner and escape the heat.",
    "grade": "bronze",
-   "guide": "Lose a 4-star wanted level with your partner."
+   "kind": "activities",
+   "missable": false,
+   "stage": 1,
+   "points": 15,
+   "guide": "While with your partner, build up a 4-star Wanted Level and then lose it completely — the escape has to happen with your partner present. Deliberately raise heat together (the partner robbery trophies pair naturally with this), then break line of sight and stay hidden until the stars clear. The description names no location, so any clean escape route you trust works.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 34,
    "name": "Retail Therapy",
    "description": "Rob 3 shops back-to-back with your partner without losing your Wanted Level.",
    "grade": "bronze",
-   "guide": "Rob 3 shops in a row with your partner, keeping your wanted level."
+   "kind": "activities",
+   "missable": false,
+   "count": 3,
+   "stage": 1,
+   "points": 15,
+   "guide": "Rob 3 shops back-to-back with your partner without losing your Wanted Level in between. Plan a tight route of three nearby shops, keep moving so the wanted level never fully drops between robberies, and only escape once the third shop is done. Doing this alongside Hot Together's 4-star escape makes efficient use of the same heat.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 35,
    "name": "Whip It Good",
    "description": "Discover 100 vehicles.",
    "grade": "bronze",
-   "guide": "Discover 100 vehicles."
+   "kind": "collectibles",
+   "missable": false,
+   "count": 100,
+   "stage": 3,
+   "points": 15,
+   "guide": "Discover 100 vehicles. Discovery is about encountering new models as you travel, so vary where you drive and what you drive instead of circling one district. PowerPyx's completion notes put the vehicle catalogue in the hundreds (277 base models for the checklist's scanning goal), so 100 discoveries come naturally if you keep changing vehicles across the whole map.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 36,
    "name": "Gunslinger",
    "description": "Take down 5 enemies in a single use of Combat Focus.",
    "grade": "bronze",
-   "guide": "Down 5 enemies in one Combat Focus."
+   "kind": "activities",
+   "missable": false,
+   "count": 5,
+   "stage": 1,
+   "points": 15,
+   "guide": "Take down 5 enemies inside a single activation of Combat Focus. Line the attempt up before you trigger it: start Combat Focus only when at least five enemies are already in view and in range, then work through them before the effect ends. Crowded firefights during story or robbery content give the best natural setups.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 37,
    "name": "Catch Me If You Can",
    "description": "Make an unscheduled departure at VCIA.",
    "grade": "bronze",
-   "guide": "Leave VCIA in an unscheduled way."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Make an 'unscheduled departure' at VCIA — the airport that also features in the story mission VCIA Takedown. In plain terms: leave the airport in a way it did not schedule, outside the normal flow of flights. The description is deliberately playful and gives no method, so experiment at the airport once you have access to it and its aircraft.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 38,
    "name": "Challenging Tank",
    "description": "Kinda hot in these Rhinos.",
    "grade": "bronze",
-   "guide": "Deal with Rhinos (tanks)."
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "points": 15,
+   "guide": "The official description is only a joke — 'Kinda hot in these Rhinos' — and the list's starter note reads it as dealing with Rhinos, the series' name for its military tanks. On that reading, expect an encounter involving a Rhino tank; no source opened for this guide spells out the exact trigger, so this guide deliberately claims nothing more specific. If you meet a Rhino in free-roam or a mission, engage with the encounter and see it through.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 39,
    "name": "Sneakthief",
    "description": "Rob a jewelry store without being detected.",
    "grade": "bronze",
-   "guide": "Rob a jewelry store without being seen."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Rob a jewelry store without being detected. The condition is stealth, not speed: get in, take the goods and get out without ever being spotted. If an attempt is blown, the description sets no one-shot limit, so scout another jewelry store and try the quiet approach again.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 40,
    "name": "Maximum Withdrawal",
    "description": "Rob 5 Bank Vaults and escape.",
    "grade": "silver",
-   "guide": "Rob 5 bank vaults and escape (silver)."
+   "kind": "activities",
+   "missable": false,
+   "count": 5,
+   "stage": 2,
+   "points": 30,
+   "guide": "Rob 5 bank vaults and escape after each one. A vault only counts when you get away, so plan the exit before you start each robbery and treat the escape as part of the job. Robberies are one of the categories the 100% checklist requires in full (per PowerPyx), so these five vaults also move the completion gold forward.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles",
+    "PowerPyx — GTA 6 Trophy Guide & Roadmap (powerpyx.com, read 2026-11-19)"
+   ]
   },
   {
    "id": 41,
    "name": "A Classic Blitz Play",
    "description": "Rob an Armored Truck and escape.",
    "grade": "bronze",
-   "guide": "Rob an armored truck and escape."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Rob an armored truck and escape. One truck, one clean getaway: hit the truck, take what it carries, and lose the heat afterwards. Keep an eye out for armored trucks while travelling between other objectives, so the opportunity is not wasted when one crosses your path.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 42,
    "name": "The Goodtime State",
    "description": "Explore all of Leonida.",
    "grade": "bronze",
-   "guide": "Explore all 52 areas of Leonida."
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "points": 15,
+   "guide": "Explore all of Leonida — the whole state, every area revealed. This is a slow-burn exploration trophy that pairs naturally with the collectible and stunt hunts in stage 3 of the roadmap: unfog the map region by region as you sweep for other objectives, then check for any stubborn unexplored patches near the end of the run.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 43,
    "name": "Pest Control",
    "description": "Rob an Illegal Operation belonging to each gang.",
    "grade": "bronze",
-   "guide": "Rob one illegal operation of each of the 9 gangs."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Rob an Illegal Operation belonging to each gang — every gang must be hit at least once, so keep track of which gangs you have already robbed and target a new one each time. The list's starter note counts 9 gangs; the official description itself only says 'each gang', so use the in-game tracking to confirm none is left out.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 44,
    "name": "In The Beginning…",
    "description": "Enjoy a cocktail with a view on Ocean Beach.",
    "grade": "bronze",
-   "guide": "Have a cocktail with a view on Ocean Beach."
+   "kind": "activities",
+   "missable": false,
+   "stage": 1,
+   "points": 15,
+   "guide": "Enjoy a cocktail with a view on Ocean Beach. This is a leisure moment, not a challenge: head to Ocean Beach, take the cocktail, and enjoy the view until the trophy pops. The description names the place plainly, and no source supports any further setup, so none is invented here.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 45,
    "name": "Capital Offense",
    "description": "Smash your way out of a vehicle showroom in classic style.",
    "grade": "bronze",
-   "guide": "Smash out of a vehicle showroom in style."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Smash your way out of a vehicle showroom 'in classic style' — get into a vehicle inside a showroom and drive it out through the showroom rather than leaving on foot. The description supports the what but names no specific showroom, so use any vehicle showroom you find while exploring Leonida.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 46,
    "name": "Let’s Go Bowling",
    "description": "Follow-through at the Kolt & Associates' bowling alley.",
    "grade": "bronze",
-   "guide": "Play bowling at the Kolt & Associates alley."
+   "kind": "activities",
+   "missable": false,
+   "stage": 2,
+   "points": 15,
+   "guide": "Go to the bowling alley at Kolt & Associates and follow through — play the bowling there. The trophy name and description both point at that specific alley, so start a game there rather than at any other leisure spot, and finish what you start: the 'follow-through' wording suggests completing the game, not just stepping in.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 47,
    "name": "Personal Best",
    "description": "A partnership with mass appeal.",
    "grade": "bronze",
-   "guide": "A partnership moment with mass appeal."
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "points": 15,
+   "guide": "The official description is a tease — 'A partnership with mass appeal' — and no source opened for this guide spells out the exact trigger. What it does support: it involves the partnership between the two protagonists and something with public appeal. This guide claims nothing more specific; expect a shared, public-facing moment between Jason and Lucia, and treat anything more precise as unverified until a source documents it.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 48,
    "name": "Actions Speak Louder",
    "description": "Choices made (for better or worse).",
    "grade": "bronze",
-   "guide": "Make choices (PSN tracks a count to 500)."
+   "kind": "activities",
+   "missable": false,
+   "count": 500,
+   "stage": 4,
+   "points": 15,
+   "guide": "Make choices — the list's starter note says PSN tracks a count to 500, so this is a long cumulative counter fed by the choices you make as you play. Because choices are spread across the whole game, play naturally, take optional conversations and decisions when they are offered, and let the counter build across your full run rather than hunting for a single repeatable spot (none is documented in the sources).",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 49,
    "name": "Bad Luck, I Guess",
    "description": "Second time's the charm.",
    "grade": "bronze",
-   "guide": "Succeed on a second try."
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "points": 15,
+   "guide": "The description — 'Second time's the charm' — points to succeeding at something on a second attempt after a first failure. No source opened for this guide names the exact activity, so the honest guide is the shape of it: when an attempt at something fails, try it again and succeed. If a particular repeatable activity tracks attempts, that is where this will pop.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 50,
    "name": "The Truth Is Out There",
    "description": "What the hell just happened?",
    "grade": "bronze",
-   "guide": "Witness something strange."
+   "kind": "activities",
+   "missable": false,
+   "stage": 4,
+   "points": 15,
+   "guide": "Witness something strange — the description ('What the hell just happened?') is a deliberate mystery, and no source opened for this guide identifies the event. Treat it as an exploration reward: investigate odd sights and anomalies you come across in Leonida instead of only following the main path, and expect it to surprise you when it pops.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 51,
    "name": "Ten Pin",
    "description": "Bowl 'em over with a melee drive-by.",
    "grade": "bronze",
-   "guide": "Knock someone down with a melee drive-by."
+   "kind": "activities",
+   "missable": false,
+   "stage": 1,
+   "points": 15,
+   "guide": "Knock someone down with a melee drive-by — strike a target with a melee attack from a moving vehicle so they go down bowling-pin style. Any vehicle and any target the description's wording covers will do: ride close, swing as you pass, and make sure the hit connects and drops them.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 52,
    "name": "Dime on the Dollar",
    "description": "Earn $250,000 laundering Marked Bills through your contacts.",
    "grade": "bronze",
-   "guide": "Launder $250,000 of marked bills."
+   "kind": "activities",
+   "missable": false,
+   "count": 250000,
+   "stage": 2,
+   "points": 15,
+   "guide": "Launder $250,000 of Marked Bills through your contacts. This is a cumulative money total, not a single score: keep feeding marked bills to your contacts whenever you hold them and let the tracker add up across the whole playthrough. Check the counter periodically so you know how much is left as you near the end of the run.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 53,
    "name": "Treat Yo Self",
    "description": "Spend $100,000 across all shops.",
    "grade": "bronze",
-   "guide": "Spend $100,000 in shops."
+   "kind": "activities",
+   "missable": false,
+   "count": 100000,
+   "stage": 2,
+   "points": 15,
+   "guide": "Spend $100,000 across all shops — cumulative spending anywhere counts, so ordinary purchases throughout the game all feed it. There is no need to save up for one spree; buy gear, supplies and services as you normally would and the total will arrive. If you are short late in the run, late-game income makes the remainder quick.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 54,
    "name": "Little Boxes",
    "description": "Purchase all garage properties.",
    "grade": "bronze",
-   "guide": "Buy all 8 garage properties."
+   "kind": "collectibles",
+   "missable": false,
+   "stage": 3,
+   "points": 15,
+   "guide": "Purchase all garage properties. Garages are bought with in-game money, so this waits until your income supports it — buy each garage as it becomes affordable rather than saving for all of them at once. The list's starter note counts 8 garages; the official description only says 'all', so use the property listings in-game as the checklist.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   },
   {
    "id": 55,
    "name": "On the Spot",
    "description": "Register 10 vehicles to the Scooter Bros app.",
    "grade": "bronze",
-   "guide": "Register 10 vehicles in the Scooter Bros app."
+   "kind": "activities",
+   "missable": false,
+   "count": 10,
+   "stage": 2,
+   "points": 15,
+   "guide": "Register 10 vehicles to the Scooter Bros app. Whenever you acquire a vehicle you want to keep, register it in the app straight away so the count builds as your garage grows. Ten registrations is a modest total that pairs naturally with Whip It Good's vehicle-discovery work in the same stage of the roadmap.",
+   "sources": [
+    "Official PlayStation 5 trophy list — PlayStation (2026-11-18), as mirrored by Exophase and PSNProfiles"
+   ]
   }
  ]
 }
